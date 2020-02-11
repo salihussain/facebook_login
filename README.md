@@ -1,4 +1,4 @@
-facebook_login (Fluuter, Dart)
+facebook_login (Flutter, Dart)
 
 Dependencies
 https://pub.dev/packages/http
